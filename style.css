@@ -37,7 +37,7 @@ header .navbar-light .navbar-brand img.logo { width: 160px; }
 .navbar-right .iq-sub-dropdown .iq-card-body div { border-radius: 0; }
 .navbar-right .iq-show .iq-sub-dropdown, .iq-show .search-box { opacity: 1; visibility: visible; transform: translate(0, 0); }
 .navbar-right .iq-sub-dropdown { width: 300px; opacity: 0; visibility: hidden; position: absolute; top: 100%; right: 15px; background: var(--iq-bg1); transform: translate(0, 70px); -webkit-transform: translate(0, 70px); transition: all 0.3s; padding: 0; -webkit-box-shadow: 0px 0 20px 0 rgba(0, 0, 0, 0.5); -moz-box-shadow: 0px 0 20px 0 rgba(0, 0, 0, 0.5); box-shadow: 0px 0 20px 0 rgba(0, 0, 0, 0.5); -webkit-transition: all 0.3s ease-out 0s; -moz-transition: all 0.3s ease-out 0s; -ms-transition: all 0.3s ease-out 0s; -o-transition: all 0.3s ease-out 0s; transition: all 0.3s ease-out 0s; z-index: 1; }
-.navbar-light .navbar-toggler-icon { background: url(../images/menu.png) no-repeat scroll center center; }
+.navbar-light .navbar-toggler-icon { background: url(https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/manu.jpg) no-repeat scroll center center; }
 .search-toggle:hover, header .navbar ul li.menu-item a:hover { color: var(--iq-primary) !important; }
 .search-wrapper { position: relative; display: inline-block; height: 36px; vertical-align: bottom; }
 .searchbutton { position: absolute; font-size: 22px; width: 100%; margin: 0; padding: 0; right: 16px; color: var(--iq-body-text); }
@@ -93,7 +93,7 @@ header .navbar ul li:last-child { margin-right: 0; }
 .playbtn:hover .circle { stroke-dashoffset: 0; opacity: 1; }
 .w-trailor { font-size: 17px; letter-spacing: 3.5px; font-weight: 600; color: var(--iq-white); margin-left: 5px; }
 .slider-inner{position: relative;overflow: hidden;width: 100%;}
-.big-title { background: url('../images/texure.jpg'); background-repeat: repeat-x; background-position: 100% 100%; color: transparent; -webkit-font-smoothing: antialiased; -webkit-background-clip: text; -moz-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+.big-title { background: url('https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/texure.jpg'); background-repeat: repeat-x; background-position: 100% 100%; color: transparent; -webkit-font-smoothing: antialiased; -webkit-background-clip: text; -moz-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
 /*---------------------------------------------------------------------
                       Pages Content
 -----------------------------------------------------------------------*/

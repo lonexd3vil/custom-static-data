@@ -52,7 +52,7 @@ Import CSS
 Font
 -----------------------------------------------------------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap');
-@font-face { font-family: 'Helvetica Neue Regular'; src: url('https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/HelveticaNeueBold.woff') format('woff'); }
+@font-face { font-family: 'Helvetica Neue Regular'; src: url('https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/fonts/helvetica/HelveticaNeueBold.woff') format('woff'); }
 
 /*---------------------------------------------------------------------
 General

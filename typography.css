@@ -45,7 +45,7 @@ Import CSS
 @import url("magnific-popup.css");
 @import url("select2.min.css");
 @import url("select2-bootstrap4.min.css");
-@import url("dark.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/dark.css");
 @import url("slick-animation.css");
 
 /*---------------------------------------------------------------------

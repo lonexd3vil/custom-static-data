@@ -35,18 +35,18 @@ NOTE: This file contains the styling for responsive Template.
 /*---------------------------------------------------------------------
 Import CSS
 -----------------------------------------------------------------------*/
-@import url("variable.css");
-@import url("all.min.css");
-@import url("remixicon.css");
-@import url("slick.css");
-@import url("slick-theme.css");
-@import url("owl.carousel.min.css");
-@import url("animate.min.css");
-@import url("magnific-popup.css");
-@import url("select2.min.css");
-@import url("select2-bootstrap4.min.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/variable.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/all.min.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/remixicon.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/slick.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/slick-theme.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/owl.carousel.min.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/animate.min.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/magnefic.min.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/select2-min.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/select2-bootsrap4.min.css");
 @import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/dark.css");
-@import url("slick-animation.css");
+@import url("https://cdn.jsdelivr.net/gh/lonexd3vil/custom-static-data@main/slick-animation.css");
 
 /*---------------------------------------------------------------------
 Font

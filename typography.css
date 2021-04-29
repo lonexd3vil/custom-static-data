@@ -57,7 +57,7 @@ Font
 /*---------------------------------------------------------------------
 General
 -----------------------------------------------------------------------*/
-*::-moz-selection { background: var(--iq-primary); color: var(--iq-white); text-shadow: none; }
+*::-moz-selection { background: var(--iq-primary); color: var(--iq-white) !important; text-shadow: none; }
 ::-moz-selection { background: var(--iq-primary); color: var(--iq-white); text-shadow: none; }
 ::selection { background: var(--iq-primary); color: var(--iq-white); text-shadow: none; }
 body { font-family: 'Roboto', sans-serif; font-weight: 400; font-style: normal; font-size: 16px; line-height: 1.5; padding: 0; margin: 0; color: var(--iq-body-text); background: var(--iq-body-bg); }
